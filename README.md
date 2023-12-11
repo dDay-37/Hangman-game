@@ -13,7 +13,7 @@
 To play the Hangman game, follow these steps:
 
 * Clone the repository to your local machine using the command:
-'git clone https://github.com/your-username/hangman.git'
+`git clone https://github.com/your-username/hangman.git`
 
 * Navigate to the cloned repository's directory:
 `cd hangman`
